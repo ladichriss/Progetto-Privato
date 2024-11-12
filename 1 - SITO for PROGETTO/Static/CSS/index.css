@@ -1,0 +1,11 @@
+@import url(container1.css);
+@import url(services-container.css);
+@import url(footer.css);
+
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+body {
+    background-color: F6F7EB;
+    display: inline;
+}
